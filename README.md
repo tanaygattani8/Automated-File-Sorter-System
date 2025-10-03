@@ -1,6 +1,3 @@
-Of course. Here is a professional `README.md` file for your Automated File Sorter project, based on the `main.py` script provided.
-
------
 
 # Automated File Sorter System
 
